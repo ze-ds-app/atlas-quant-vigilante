@@ -1,0 +1,37 @@
+name: Atlas Quant Vigilante
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  vigiar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descarregar código
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar bibliotecas
+        run: pip install feedparser requests
+
+      - name: Correr Vigilante
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python vigilante.py
+
+      - name: Guardar memória e alertas no GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Atlas Bot"
+          git add noticias_vistas.txt alertas_importantes.json || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizar alertas" && git push)
