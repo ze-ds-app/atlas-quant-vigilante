@@ -33,5 +33,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Atlas Bot"
-          git add noticias_vistas.txt alertas_importantes.json || true
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizar alertas" && git push)
+          if [ -f noticias_vistas.txt ]; then git add noticias_vistas.txt; fi
+          if [ -f alertas_importantes.json ]; then git add alertas_importantes.json; fi
+          git diff --staged --quiet || (git commit -m "Atualizar alertas" && git push)
