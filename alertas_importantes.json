@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "[CORPORATE] SpaceX stock price crashes on concerns over compute demand",
+    "titulo_original": "SpaceX stock price crashes on concerns over compute demand",
+    "resumo": "SpaceX's stock price is facing mounting pressure amid speculation surrounding a potential Tesla merger, an upcoming share unlock and weakening GPU rental prices. But the most consequential risk may be…",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "25/11 20:32"
+  },
+  {
+    "titulo": "[MACRO] Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
+    "titulo_original": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
+    "resumo": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "25/11 20:58"
+  },
+  {
     "titulo": "[CORPORATE] Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
     "titulo_original": "Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
     "resumo": "Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
@@ -193,20 +207,6 @@
     "titulo_original": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
     "resumo": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
     "fonte": "ALERTA TELEGRAM • Stock Market News",
-    "hora": "13:51"
-  },
-  {
-    "titulo": "[MACRO] U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
-    "titulo_original": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
-    "resumo": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
-    "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
-    "hora": "13:51"
-  },
-  {
-    "titulo": "[MACRO] Third-quarter GDP already looked great. Now it looks even better.",
-    "titulo_original": "Third-quarter GDP already looked great. Now it looks even better.",
-    "resumo": "Consumer spending and AI investment fuel fastest  economic growth in three years",
-    "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
     "hora": "13:51"
   }
 ]
