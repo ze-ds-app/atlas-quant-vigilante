@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "[CORPORATE] HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+    "titulo_original": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+    "resumo": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
+    "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
+    "hora": "25/11 21:36"
+  },
+  {
+    "titulo": "[MACRO] Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
+    "titulo_original": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
+    "resumo": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "25/11 21:32"
+  },
+  {
+    "titulo": "[CORPORATE] Deere & Company Q4 2026 Earnings Call Summary",
+    "titulo_original": "Deere & Company Q4 2026 Earnings Call Summary",
+    "resumo": "Moby summary of Deere & Company's Q4 2026 earnings call",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "25/11 21:44"
+  },
+  {
+    "titulo": "[CORPORATE] Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+    "titulo_original": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+    "resumo": "Berkshire Hathaway has both opportunities and challenges in a high-rate environment.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "25/11 21:50"
+  },
+  {
     "titulo": "[CORPORATE] SpaceX stock price crashes on concerns over compute demand",
     "titulo_original": "SpaceX stock price crashes on concerns over compute demand",
     "resumo": "SpaceX's stock price is facing mounting pressure amid speculation surrounding a potential Tesla merger, an upcoming share unlock and weakening GPU rental prices. But the most consequential risk may be…",
@@ -180,33 +208,5 @@
     "resumo": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
     "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
     "hora": "14:51"
-  },
-  {
-    "titulo": "[MACRO] Core PCE Price Index rises 3.3% Y/Y, slightly hotter than expected",
-    "titulo_original": "Core PCE Price Index rises 3.3% Y/Y, slightly hotter than expected",
-    "resumo": "Core PCE Price Index rises 3.3% Y/Y, slightly hotter than expected",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "13:51"
-  },
-  {
-    "titulo": "[MACRO] U.S. Q3 GDP growth revised higher in second estimate on investment, consumer spending",
-    "titulo_original": "U.S. Q3 GDP growth revised higher in second estimate on investment, consumer spending",
-    "resumo": "U.S. Q3 GDP growth revised higher in second estimate on investment, consumer spending",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "13:51"
-  },
-  {
-    "titulo": "[MACRO] Europe stocks split as autos, pharma gain, chipmakers drag; U.S. PCE next",
-    "titulo_original": "Europe stocks split as autos, pharma gain, chipmakers drag; U.S. PCE next",
-    "resumo": "Europe stocks split as autos, pharma gain, chipmakers drag; U.S. PCE next",
-    "fonte": "ALERTA TELEGRAM • Stock Market News",
-    "hora": "13:51"
-  },
-  {
-    "titulo": "[MACRO] TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-    "titulo_original": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-    "resumo": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-    "fonte": "ALERTA TELEGRAM • Stock Market News",
-    "hora": "13:51"
   }
 ]
