@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "[CORPORATE] Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B",
+    "titulo_original": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B",
+    "resumo": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B",
+    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
+    "hora": "01:27"
+  },
+  {
+    "titulo": "[CORPORATE] Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
+    "titulo_original": "Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
+    "resumo": "Data center operator Nscale reassured employees it can stay private amid a steep AI stock downturn that threatens its planned $35 billion listing.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "01:26"
+  },
+  {
+    "titulo": "[CORPORATE] Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+    "titulo_original": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+    "resumo": "A fund labeled communication services sounds like a broad bet on telecom, media, and entertainment. The latest SEC filing shows something far narrower, and one company hides in plain sight by appearing on the holdings list twice.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "01:26"
+  },
+  {
     "titulo": "[CORPORATE] 3 British Growth Stocks With Earnings Growth Up To 83%",
     "titulo_original": "3 British Growth Stocks With Earnings Growth Up To 83%",
     "resumo": "Jensen Huang’s sudden return to Nvidia and the sharp rebound in global equities have pushed growth stories back into the spotlight. Strong market interest in earnings expansion has increased appetite for fast growing British businesses that also keep their balance sheets in check. This article highlights three stocks from a UK high growth potential screener that combines forecast earnings strength with companies that are not stretched financially. The three stocks highlighted here offer a...",
@@ -185,27 +206,6 @@
     "titulo": "[CORPORATE] Anthropic Stock Just Broke Below Its $83 IPO Price. Is It a Bargain Buy?",
     "titulo_original": "Anthropic Stock Just Broke Below Its $83 IPO Price. Is It a Bargain Buy?",
     "resumo": "Anthropic fell below its $83 IPO price on its fourth trading day.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "20:30"
-  },
-  {
-    "titulo": "[MACRO] Stock Market Today: Nasdaq Skids As Nvidia Dives; New Trump Tariffs Loom; Pharma Play Clears Entry (Live Coverage)",
-    "titulo_original": "Stock Market Today: Nasdaq Skids As Nvidia Dives; New Trump Tariffs Loom; Pharma Play Clears Entry (Live Coverage)",
-    "resumo": "Stock Market Today: The Dow Jones index rises but the Nasdaq falls Tuesday. Anthropic and Nvidia dive. New Trump tariffs are expected.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "20:30"
-  },
-  {
-    "titulo": "[CORPORATE] Tesla and SpaceX Name Five Directors for a Potential $3.5 Trillion Merger. Tesla Holders Still Get a Vote",
-    "titulo_original": "Tesla and SpaceX Name Five Directors for a Potential $3.5 Trillion Merger. Tesla Holders Still Get a Vote",
-    "resumo": "Key TakeawaysTesla and SpaceX have reportedly named five directors to negotiate a potential all-stock merger of two companies worth about $3. 5 trillion together.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "20:30"
-  },
-  {
-    "titulo": "[CORPORATE] Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It",
-    "titulo_original": "Trump’s Southeast Asia Chip Rule Has Cost Nvidia $44 Billion+ of Revenue, per Jefferies. Huang Can’t Undo It",
-    "resumo": "Key TakeawaysJefferies estimates a new Commerce Department chip-rental rule could cut $44 billion to $62 billion from Nvidia’s data center revenue next year. Jensen Huang’s return as CEO won’t reopen that route, since Beijing expects no easing and Washington wants tighter rules.",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "20:30"
   }
