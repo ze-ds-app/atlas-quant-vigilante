@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "[CORPORATE] Market Chatter: Meta Platforms' Muse Seen Boosting Advertising Revenue Via Instagram",
+    "titulo_original": "Market Chatter: Meta Platforms' Muse Seen Boosting Advertising Revenue Via Instagram",
+    "resumo": "Meta Platforms' (META) ad-free Muse personal artificial intelligence agent is helping boost its adve",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "10:29"
+  },
+  {
     "titulo": "[MACRO] European markets edge higher as investors weigh tariff threats and AI concerns",
     "titulo_original": "European markets edge higher as investors weigh tariff threats and AI concerns",
     "resumo": "European markets edge higher as investors weigh tariff threats and AI concerns",
@@ -201,12 +208,5 @@
     "resumo": "Short seller Hunterbrook claims that AMD faces a major problem that has plagued Nvidia all year.",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "23:28"
-  },
-  {
-    "titulo": "[CORPORATE] Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates",
-    "titulo_original": "Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates",
-    "resumo": "Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "22:36"
   }
 ]
