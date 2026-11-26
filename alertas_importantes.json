@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "[MACRO] European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
+    "titulo_original": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
+    "resumo": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
+    "fonte": "ALERTA TELEGRAM • Stock Market News",
+    "hora": "26/11 10:56"
+  },
+  {
     "titulo": "[CORPORATE] Arrow posts $32.5M of total oil and natural gas revenue in Q3",
     "titulo_original": "Arrow posts $32.5M of total oil and natural gas revenue in Q3",
     "resumo": "Arrow posts $32.5M of total oil and natural gas revenue in Q3",
@@ -201,12 +208,5 @@
     "resumo": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "25/11 20:58"
-  },
-  {
-    "titulo": "[CORPORATE] Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
-    "titulo_original": "Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
-    "resumo": "Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "25/11 19:37"
   }
 ]
