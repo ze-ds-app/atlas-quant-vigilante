@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "[MACRO] Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
+    "titulo_original": "Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
+    "resumo": "Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
+    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
+    "hora": "26/11 05:55"
+  },
+  {
+    "titulo": "[MACRO] Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
+    "titulo_original": "Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
+    "resumo": "Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
+    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
+    "hora": "26/11 06:11"
+  },
+  {
+    "titulo": "[CORPORATE] Vivakor announces 1-for-15 reverse stock split to maintain Nasdaq compliance",
+    "titulo_original": "Vivakor announces 1-for-15 reverse stock split to maintain Nasdaq compliance",
+    "resumo": "Vivakor announces 1-for-15 reverse stock split to maintain Nasdaq compliance",
+    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
+    "hora": "26/11 06:25"
+  },
+  {
+    "titulo": "[CORPORATE] MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
+    "titulo_original": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix — Analyst Presses Memory Giants For ‘Massive’ Buybacks",
+    "resumo": "Nvidia and Kioxia tested 144 flash drives in one AI rack. Kioxia estimates the setup could support a database of up to 2 trillion vectors.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "26/11 06:30"
+  },
+  {
     "titulo": "[MACRO] Stocks rally in Asia, US tariffs not as dire as feared",
     "titulo_original": "Stocks rally in Asia, US tariffs not as dire as feared",
     "resumo": "Stocks rally in Asia, US tariffs not as dire as feared",
@@ -180,33 +208,5 @@
     "resumo": "The market is projecting multiple rate hikes over the next six months.",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "25/11 18:03"
-  },
-  {
-    "titulo": "[CORPORATE] Most of Dell’s New AI Server Orders Are Now for Nvidia’s Vera Rubin",
-    "titulo_original": "Most of Dell’s New AI Server Orders Are Now for Nvidia’s Vera Rubin",
-    "resumo": "Dell's backlog just hit a record, yet its stock sank before earnings. One line from the COO about what customers are ordering next reveals who really controls Dell's revenue timing, and why that cuts both ways.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "25/11 18:07"
-  },
-  {
-    "titulo": "[MACRO] Trump administration proposes new tariffs on 14 economies, including EU and China",
-    "titulo_original": "Trump administration proposes new tariffs on 14 economies, including EU and China",
-    "resumo": "Trump administration proposes new tariffs on 14 economies, including EU and China",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "25/11 17:34"
-  },
-  {
-    "titulo": "[MACRO] How soon Trump’s new tariffs could hit the economy — and your wallet",
-    "titulo_original": "How soon Trump’s new tariffs could hit the economy — and your wallet",
-    "resumo": "The White House’s plan for new levies comes after the Supreme Court tossed out broader Trump tariffs earlier this year.",
-    "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
-    "hora": "25/11 16:59"
-  },
-  {
-    "titulo": "[CORPORATE] HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-    "titulo_original": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-    "resumo": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
-    "fonte": "ALERTA TELEGRAM • MarketWatch.com - Top Stories",
-    "hora": "25/11 17:24"
   }
 ]
