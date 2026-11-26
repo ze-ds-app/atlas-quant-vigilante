@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "[CORPORATE] IonQ Has Delivered 6 Consecutive Record Quarters. The Bull Case Is Getting Stronger",
+    "titulo_original": "IonQ Has Delivered 6 Consecutive Record Quarters. The Bull Case Is Getting Stronger",
+    "resumo": "IonQ keeps posting record results and selling out its future capacity, yet the stock has been cut nearly in half this year. What would it take for shares to more than double again, and what could derail the climb?",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "26/11 12:17"
+  },
+  {
+    "titulo": "[CORPORATE] MiniMax Faces Revenue Risks as Apple Removes Talkie AI Chatbot",
+    "titulo_original": "MiniMax Faces Revenue Risks as Apple Removes Talkie AI Chatbot",
+    "resumo": "The removal puts pressure on MiniMax as scrutiny of AI chatbot safety intensifies.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "26/11 11:33"
+  },
+  {
+    "titulo": "[CORPORATE] JPMorgan Says S&P Could Waive Its Rules for a Tesla-SpaceX Merger. That’s Good News for SpaceX Holders",
+    "titulo_original": "JPMorgan Says S&P Could Waive Its Rules for a Tesla-SpaceX Merger. That’s Good News for SpaceX Holders",
+    "resumo": "Key TakeawaysTesla and SpaceX sank early on Nov. 25 before paring losses; SpaceX closed up 1.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "26/11 11:45"
+  },
+  {
+    "titulo": "[CORPORATE] Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be Cut In 90 Days.",
+    "titulo_original": "Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be Cut In 90 Days.",
+    "resumo": "S&amp;P Global Ratings placed Nvidia's AA credit rating on negative CreditWatch, warning of a possible downgrade within 90 days as governance concerns persist despite record AI chip revenue.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "26/11 11:53"
+  },
+  {
     "titulo": "[MACRO] European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
     "titulo_original": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
     "resumo": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
@@ -180,33 +208,5 @@
     "resumo": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "25/11 21:32"
-  },
-  {
-    "titulo": "[CORPORATE] Deere & Company Q4 2026 Earnings Call Summary",
-    "titulo_original": "Deere & Company Q4 2026 Earnings Call Summary",
-    "resumo": "Moby summary of Deere & Company's Q4 2026 earnings call",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "25/11 21:44"
-  },
-  {
-    "titulo": "[CORPORATE] Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
-    "titulo_original": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
-    "resumo": "Berkshire Hathaway has both opportunities and challenges in a high-rate environment.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "25/11 21:50"
-  },
-  {
-    "titulo": "[CORPORATE] SpaceX stock price crashes on concerns over compute demand",
-    "titulo_original": "SpaceX stock price crashes on concerns over compute demand",
-    "resumo": "SpaceX's stock price is facing mounting pressure amid speculation surrounding a potential Tesla merger, an upcoming share unlock and weakening GPU rental prices. But the most consequential risk may be…",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "25/11 20:32"
-  },
-  {
-    "titulo": "[MACRO] Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
-    "titulo_original": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
-    "resumo": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "25/11 20:58"
   }
 ]
