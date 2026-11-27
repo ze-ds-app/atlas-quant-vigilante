@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "[CORPORATE] Anthropic shares extend gains, recovering from post-IPO slump",
+    "titulo_original": "Anthropic shares extend gains, recovering from post-IPO slump",
+    "resumo": "Anthropic shares extend gains, recovering from post-IPO slump",
+    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
+    "hora": "27/11 15:48"
+  },
+  {
+    "titulo": "[CORPORATE] AMD's Earnings & Why Stocks Surged",
+    "titulo_original": "AMD's Earnings & Why Stocks Surged",
+    "resumo": "Stocks rallied after the midterm elections, but does the outcome really matter for long-term investors? AMD's blockbuster earnings show that AI infrastructure spending is still accelerating, even as questions about returns on investment remain. Plus, CVS announces plans to split into two publicly traded companies, potentially unwinding decades of consolidation.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "27/11 15:54"
+  },
+  {
+    "titulo": "[CORPORATE] Jensen Huang’s Troubles Cost Him $30 Billion",
+    "titulo_original": "Jensen Huang’s Troubles Cost Him $30 Billion",
+    "resumo": "Nvidia's CEO fought his way back into the job, but a three-day gauntlet before multiple congressional committees awaits him. Lawmakers from both parties want answers about China, and an accounting question could reach deeper into the company's revenue.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "27/11 16:34"
+  },
+  {
     "titulo": "[CORPORATE] Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
     "titulo_original": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
     "resumo": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate.",
@@ -187,26 +208,5 @@
     "resumo": "Nvidia's physical AI revenue is growing at an incredible pace.",
     "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
     "hora": "26/11 18:17"
-  },
-  {
-    "titulo": "[MACRO] European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-    "titulo_original": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-    "resumo": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-    "fonte": "ALERTA TELEGRAM • Stock Market News",
-    "hora": "26/11 17:18"
-  },
-  {
-    "titulo": "[CORPORATE] Amazon Has 59 Buy Ratings and Not a Single Sell. Here’s Where its Headed",
-    "titulo_original": "Amazon Has 59 Buy Ratings and Not a Single Sell. Here’s Where its Headed",
-    "resumo": "Wall Street analysts agree on Amazon, yet the stock keeps stalling while AWS accelerates. A $220 billion spending plan and negative free cash flow could decide whether the cloud giant rewards patient investors or tests their nerve.",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "26/11 17:10"
-  },
-  {
-    "titulo": "[CORPORATE] BlackBerry (TSX:BB) Rebounds Before Earnings, Is The Stock Fully Priced?",
-    "titulo_original": "BlackBerry (TSX:BB) Rebounds Before Earnings, Is The Stock Fully Priced?",
-    "resumo": "BlackBerry stock reacts to tech rebound and upcoming earnings BlackBerry (TSX:BB) moved back into the spotlight after an 8.38% jump on a broader technology rally sparked by Nvidia's CEO reinstatement, with traders now watching the December 17, 2026 earnings announcement. At a CA$12.07 share price, BlackBerry has locked in a very strong year-to-date share price return of 131.23%, even though the 30-day share price return is down 6.36% and short-term momentum has cooled, while the 1-year total...",
-    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
-    "hora": "26/11 16:10"
   }
 ]
