@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "[CORPORATE] Tech Stock Sell-Off: Down 36%, Is SpaceX a Buy Now?",
+    "titulo_original": "Tech Stock Sell-Off: Down 36%, Is SpaceX a Buy Now?",
+    "resumo": "The stock has sold off since its June IPO, but SpaceX's AI and Starlink businesses are bringing in real revenue.",
+    "fonte": "ALERTA TELEGRAM • Yahoo! Finance: SPY QQQ AAPL MSFT NVDA TSLA AMZN META GOOGL BRK-B News",
+    "hora": "28/11 08:30"
+  },
+  {
     "titulo": "[CORPORATE] Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
     "titulo_original": "Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
     "resumo": "Artificial intelligence infrastructure is back in the spotlight after Nvidia reinstated Jensen Huang as CEO, paired with a sharply higher long-term revenue outlook and huge FY 2027 numbers that have refocused attention on the plumbing behind AI. Investors who ignore the hardware and data center layer risk missing where a lot of value could concentrate. This article spotlights three stocks exposed to that same news story. The three stocks below are just a sample of the idea, and the full...",
@@ -201,12 +208,5 @@
     "resumo": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks",
     "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
     "hora": "27/11 05:47"
-  },
-  {
-    "titulo": "[MACRO] Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision",
-    "titulo_original": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision",
-    "resumo": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision",
-    "fonte": "ALERTA TELEGRAM • Breaking News on Seeking Alpha",
-    "hora": "27/11 04:48"
   }
 ]
